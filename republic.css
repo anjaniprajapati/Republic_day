@@ -1,0 +1,67 @@
+body{
+    background-image: url("fg2.jpg");
+
+}
+
+h1{
+    display: flex;
+    margin-left: 29rem;
+    margin-right: 29rem;
+    color:black;
+    margin-bottom:-10px;
+    position: relative;
+    top: -23px;
+
+}
+.s{
+   display: flex; 
+   position: relative;
+   top: -35px;
+   margin-left: 2rem;
+}
+
+.s1{
+    display: flex; 
+    position: relative;
+    top: -35px;
+    margin-left: 3rem;
+ }
+ .s2{
+    display: flex; 
+    position: relative;
+    top: -35px;
+    margin-left: 4rem;
+ }
+
+.anjani{
+    width: 500px;
+    height: 200px;
+    display: flex;
+    position: relative;
+    top: 80px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+}
+.anjani2{
+    width: 350px;
+    height: 200px;
+    display: flex;
+    position: relative;
+    top: -140px;
+    margin-left: 60rem;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+}
+
+.link{
+    border:5px solid white;
+    padding:20px;
+    margin-right:57rem;
+    margin-left: 0rem;
+    display: flexbox;
+    position: relative;
+    top: 7rem;
+    background-color:whitesmoke;
+}
